@@ -1,0 +1,3 @@
+ci_access:
+    projects:
+        - id: devops_world1/kubernetes-ci-cd-pipeline
